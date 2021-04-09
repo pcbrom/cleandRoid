@@ -1,3 +1,3 @@
 # cleandRoid
 
-Just a massive clean on android devices.
+Just massive cleaning on Android devices.
